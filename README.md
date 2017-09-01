@@ -23,6 +23,7 @@ too.):
 
 ```bash
 $ pip install -r requirements.txt
+$ pip install pytodoist --upgrade
 ```
 
 Next, copy the `config.sample.yml` to `config.yml`, and edit it. (There are helpful
